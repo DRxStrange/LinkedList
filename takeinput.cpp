@@ -45,7 +45,7 @@ Node *takeInput(){
 } 
 int main()
 {
-    Node *head = takeInput2();
+    Node *head = takeInput();
     
      print(head);
      
